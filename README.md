@@ -12,8 +12,8 @@ My Portfolio site where i would be showcasing my Projects, Certifications, Publi
 
 ### In dark mode
 
-![In dark mode](./preview/Dark-Mode.png)
+![In dark mode](./C:/Users/USER/Desktop/Site/portfolio-website/preview/Dark-Mode.png)
 
 ### In light mode
 
-![In light mode](./preview/Light-Mode.png)
+![In light mode](./C:/Users/USER/Desktop/Site/portfolio-website/preview/Light-Mode.png)
