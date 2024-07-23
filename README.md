@@ -4,6 +4,7 @@ My Portfolio site where i would be showcasing my Projects, Certifications, Publi
 
 #### See it live here - [https://charles-personal-site.vercel.app/](https://charles-personal-site.vercel.app/)
 
+<!--=============== TESTIMONIALS 
 <br>
 
 ## This is what it looks like
@@ -16,4 +17,4 @@ My Portfolio site where i would be showcasing my Projects, Certifications, Publi
 
 ### In light mode
 
-![In light mode](./preview/Light-Mode.png)
+![In light mode](./preview/Light-Mode.png) ===============-->
