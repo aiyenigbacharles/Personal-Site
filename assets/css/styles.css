@@ -660,14 +660,22 @@ body.light-theme {
   border-radius: 0.5rem;
 }
 
+/*===============
 .work__card {
   background-color: var(--container-color);
+  padding: 3rem;
+  border-radius: 1rem;
+} ===============*/
+
+.work__card {
+  width: 280px;  
+  margin: 0.5rem;
   padding: 1rem;
   border-radius: 1rem;
 }
 
 .work__img {
-  border-radius: 1rem;
+  border-radius: 2rem;
   margin-bottom: 0.75rem;
 }
 
@@ -760,11 +768,13 @@ body.light-theme {
   text-align: center;
 }
 
+
 .contact__card-icon {
   font-size: 2rem;
   color: var(--title-color);
   margin-bottom: 0.25rem;
 }
+
 
 .contact__card-title,
 .contact__card-data {
